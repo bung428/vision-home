@@ -1,6 +1,6 @@
 {
-    "name": "bgookim_play_ground_app",
-    "short_name": "bgookim_play_ground_app",
+    "name": "vision_home",
+    "short_name": "vision_home",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

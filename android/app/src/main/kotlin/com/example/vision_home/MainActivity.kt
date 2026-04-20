@@ -1,4 +1,4 @@
-package com.example.bgookim_play_ground_app
+package com.example.vision_home
 
 import io.flutter.embedding.android.FlutterActivity
 
